@@ -1,0 +1,14 @@
+{
+    "name": "ddf--gapminder--ihme_edu_attainment",
+    "author": "Gapminder",
+    "description": "IHME Education attainment dataset in DDF format",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "IHME Education attainment dataset in DDF format",
+    "version": "0.0.1",
+    "resources": []
+}
